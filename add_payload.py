@@ -13,7 +13,7 @@ from update_payloads import update_readme
 
 JSON_FILE = "payloads.json"
 PAYLOADS_DIR = "payloads"
-BASE_URL = "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror"
+BASE_URL = "https://github.com/speedihb2k15/speedi.github.io/releases/tag/Payloads"
 
 def get_repo_info(url):
     match = re.search(r"https?://([^/]+)/([^/]+)/([^/]+)", url)
