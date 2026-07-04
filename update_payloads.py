@@ -139,7 +139,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 
 ## Support & Suggestions
 
-If you have suggestions for a new payload to be added or if there's an important issue with some payload, please report them in the [Issues section](https://github.com/itsPLK/ps5-payloads-mirror/issues/new).
+If you have suggestions for a new payload to be added or if there's an important issue with some payload, please report them in the [Issues section](https://github.com/speedihb2k15/speedi.github.io/issues/new).
 """
 
     if not os.path.exists(readme_path):
@@ -166,8 +166,8 @@ If you have suggestions for a new payload to be added or if there's an important
 
 
 def get_mirror_assets():
-    owner = "itsPLK"
-    repo = "ps5-payloads-mirror"
+    owner = "speedihb2k15"
+    repo = "speedi.github.io"
     try:
         cmd = ["gh", "api", f"repos/{owner}/{repo}/releases/tags/payloads-mirror"]
         result = subprocess.run(cmd, capture_output=True, text=True)
@@ -180,8 +180,8 @@ def get_mirror_assets():
 
 def cleanup_release_assets():
     print("\nChecking for stale release assets to clean up...")
-    owner = "itsPLK"
-    repo = "ps5-payloads-mirror"
+    owner = "speedihb2k15"
+    repo = "speedi.github.io"
     
     try:
         with open(JSON_FILE, "r") as f:
