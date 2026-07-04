@@ -82,11 +82,11 @@
     "filename": "nanoDNS_0.3.elf",
     "url": "https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//nanoDNS_0.3.elf",
     "source": "https://github.com/drakmor/nanoDNS/releases",
-    "source_direct": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns-ps4.elf",
+    "source_direct": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns.elf",
     "description": "Local DNS proxy server",
     "last_update": "2026-06-03",
     "version": "0.3",
-    "checksum": "09b7c87903dc28f5bbb40855572776adb10afa1b61f310fac5a9550f6dbd033b"
+    "checksum": "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
   },
   {
     "name": "PS5-Lapy-JB-Daemon",
@@ -104,21 +104,21 @@
     "filename": "ftpsrv_v0.20.elf",
     "url": "https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//ftpsrv_v0.20.elf",
     "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.20/ftpsrv-ps4.elf",
+    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.20/ftpsrv-ps5.elf",
     "description": "A simple FTP server for jailbroken PS4s and PS5s",
     "last_update": "2026-05-12",
     "version": "v0.20",
-    "checksum": "da61b4e7e825918cda2e7dba547206f505f62c59c7fe561df367c34ed294fa56"
+    "checksum": "8f305a959fb9d70fd8d52ba88409e0d5a1632e83d4ecdd38646a0a33e54089da"
   },
   {
     "name": "klogsrv",
     "filename": "klogsrv_v0.8.elf",
     "url": "https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//klogsrv_v0.8.elf",
     "source": "https://github.com/ps5-payload-dev/klogsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/klogsrv/releases/download/v0.8/klogsrv-ps4.elf",
+    "source_direct": "https://github.com/ps5-payload-dev/klogsrv/releases/download/v0.8/klogsrv-ps5.elf",
     "description": "A simple socket server that redirects /dev/klog to sockets connected on port 3232",
     "last_update": "2026-05-12",
     "version": "v0.8",
-    "checksum": "19b12784843c13e181acbd4c6ab7475c8f9771a6f6fa70897f1e8dfbb5ceed23"
+    "checksum": "f6eb1b415ecf3340b89a56a0cb04ba5c714430085851ada13a98012b63a5a4cf"
   }
 ]
