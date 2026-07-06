@@ -120,5 +120,16 @@
     "last_update": "2026-05-12",
     "version": "v0.8",
     "checksum": "f6eb1b415ecf3340b89a56a0cb04ba5c714430085851ada13a98012b63a5a4cf"
+  },
+  {
+    "name": "BackPork",
+    "filename": "BackPork_0.1.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//BackPork_0.1.elf",
+    "source": "https://github.com/BestPig/BackPork/releases",
+    "source_direct": "https://github.com/BestPig/BackPork/releases/download/0.1/ps5-backpork.elf",
+    "description": "Lets you sideload system libraries into PS5 games",
+    "last_update": "2026-04-30",
+    "version": "0.1",
+    "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
   }
 ]

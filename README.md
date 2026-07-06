@@ -18,6 +18,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 | **PS5-Lapy-JB-Daemon** | `v1.2` | Standalone homebrew jailbreak daemon for PS5. Mimics etaHEN's jailbreak-on-demand API. Multi-firmware (3.00 to 12.00) via ps5-payload-sdk + kstuff. No etaHEN required. | `2026-06-01` | [Source](https://github.com/itsPLK/PS5-Lapy-JB-Daemon/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//PS5-Lapy-JB-Daemon_v1.2.elf) |
 | **ftpsrv** | `v0.20` | A simple FTP server for jailbroken PS4s and PS5s | `2026-05-12` | [Source](https://github.com/ps5-payload-dev/ftpsrv/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//ftpsrv_v0.20.elf) |
 | **klogsrv** | `v0.8` | A simple socket server that redirects /dev/klog to sockets connected on port 3232 | `2026-05-12` | [Source](https://github.com/ps5-payload-dev/klogsrv/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//klogsrv_v0.8.elf) |
+| **BackPork** | `0.1` | Lets you sideload system libraries into PS5 games | `2026-04-30` | [Source](https://github.com/BestPig/BackPork/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/payloads-mirror//BackPork_0.1.elf) |
 <!-- PAYLOADS_END -->
 
 ## Support & Suggestions
