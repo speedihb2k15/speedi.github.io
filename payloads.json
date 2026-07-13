@@ -1,5 +1,17 @@
 [
   {
+    "name": "dump_installer",
+    "filename": "dump_installer_1.07.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/dump_installer_1.07.elf",
+    "source": "https://github.com/EchoStretch/dump_installer/releases",
+    "source_direct": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
+    "extract_file": "dump_installer.elf",
+    "description": "Installing Game Dumps To The PS5",
+    "last_update": "2026-07-12",
+    "version": "1.07",
+    "checksum": "9b01c2051795d10a6923a2b4c8137a2895ecdf365e736e42cf6750ac707d6245"
+  },
+  {
     "name": "ps5upload",
     "filename": "ps5upload_v4.0.0.elf",
     "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.0.0.elf",
@@ -53,18 +65,6 @@
     "last_update": "2026-06-24",
     "version": "v1.7.0",
     "checksum": "cb2a4b3c248323f2432ce118cb1bf4975146035239ce9b571a9bdb51b3fee226"
-  },
-  {
-    "name": "dump_installer",
-    "filename": "dump_installer_1.06.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/dump_installer_1.06.elf",
-    "source": "https://github.com/EchoStretch/dump_installer/releases",
-    "source_direct": "https://github.com/EchoStretch/dump_installer/releases/download/1.06/dump_installer.zip",
-    "extract_file": "dump_installer.elf",
-    "description": "Installing Game Dumps To The PS5",
-    "last_update": "2026-06-08",
-    "version": "1.06",
-    "checksum": "351cefaf1b4fc72588eae26bca973f0fb0a7baf256587d8f600077d5a5c3a7c8"
   },
   {
     "name": "ps5-payload-manager",
