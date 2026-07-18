@@ -1,5 +1,27 @@
 [
   {
+    "name": "ps5upload",
+    "filename": "ps5upload_v4.1.1.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.1.1.elf",
+    "source": "https://github.com/phantomptr/ps5upload/releases",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.1.1/ps5upload-4.1.1.elf",
+    "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
+    "last_update": "2026-07-18",
+    "version": "v4.1.1",
+    "checksum": "735649781657227bb6a95e90e606df73bf6b54fdb5e5831ef35431a7c014f55b"
+  },
+  {
+    "name": "ps5-payload-manager",
+    "filename": "ps5-payload-manager_v0.3.3.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.3.3.elf",
+    "source": "https://github.com/itsPLK/ps5-payload-manager/releases",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.3/pldmgr_v0.3.3.elf",
+    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
+    "last_update": "2026-07-17",
+    "version": "v0.3.3",
+    "checksum": "8a214dcc190c893b1dea43ab64cb89c431a34630906c31413f6f44c0389b698e"
+  },
+  {
     "name": "dump_installer",
     "filename": "dump_installer_1.07.elf",
     "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/dump_installer_1.07.elf",
@@ -10,17 +32,6 @@
     "last_update": "2026-07-12",
     "version": "1.07",
     "checksum": "9b01c2051795d10a6923a2b4c8137a2895ecdf365e736e42cf6750ac707d6245"
-  },
-  {
-    "name": "ps5upload",
-    "filename": "ps5upload_v4.0.0.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.0.0.elf",
-    "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.0.0/ps5upload-4.0.0.elf",
-    "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-07-11",
-    "version": "v4.0.0",
-    "checksum": "ba8de000b8a20a624352f445b8e2d4ead541c191eb3c3efece4ff5ea01745ed4"
   },
   {
     "name": "kstuff-lite",
@@ -65,17 +76,6 @@
     "last_update": "2026-06-24",
     "version": "v1.7.0",
     "checksum": "cb2a4b3c248323f2432ce118cb1bf4975146035239ce9b571a9bdb51b3fee226"
-  },
-  {
-    "name": "ps5-payload-manager",
-    "filename": "ps5-payload-manager_v0.3.1.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.3.1.elf",
-    "source": "https://github.com/itsPLK/ps5-payload-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.1/pldmgr_v0.3.1.elf",
-    "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-06-06",
-    "version": "v0.3.1",
-    "checksum": "518740adbacccb9094fadb07dd424c53ee290f38306449ccc9d6957fdf813c0b"
   },
   {
     "name": "nanoDNS",
