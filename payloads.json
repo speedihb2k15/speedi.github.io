@@ -1,25 +1,25 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v4.1.1.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.1.1.elf",
+    "filename": "ps5upload_v4.1.2.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.1.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.1.1/ps5upload-4.1.1.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.1.2/ps5upload-4.1.2.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-07-18",
-    "version": "v4.1.1",
-    "checksum": "735649781657227bb6a95e90e606df73bf6b54fdb5e5831ef35431a7c014f55b"
+    "last_update": "2026-07-19",
+    "version": "v4.1.2",
+    "checksum": "4ecdd43a638ebcf1028d1648ee3534ba776e7ba80e1f8c04b8f5c2e827700c93"
   },
   {
     "name": "ps5-payload-manager",
-    "filename": "ps5-payload-manager_v0.3.3.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.3.3.elf",
+    "filename": "ps5-payload-manager_v0.4.1.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.4.1.elf",
     "source": "https://github.com/itsPLK/ps5-payload-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.3/pldmgr_v0.3.3.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.4.1/pldmgr_v0.4.1.elf",
     "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-07-17",
-    "version": "v0.3.3",
-    "checksum": "8a214dcc190c893b1dea43ab64cb89c431a34630906c31413f6f44c0389b698e"
+    "last_update": "2026-07-19",
+    "version": "v0.4.1",
+    "checksum": "8f26faf1f6e831150af3284e2cca4944917f073efedfb4db0335cfab75a17951"
   },
   {
     "name": "dump_installer",
