@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v4.1.3` | PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers. | `2026-07-27` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.1.3.elf) |
+| **ps5upload** | `v4.1.8` | PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers. | `2026-07-31` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.1.8.elf) |
 | **ps5-payload-manager** | `v0.5.0` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-07-21` | [Source](https://github.com/itsPLK/ps5-payload-manager/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.5.0.elf) |
 | **dump_installer** | `1.07` | Installing Game Dumps To The PS5 | `2026-07-12` | [Source](https://github.com/EchoStretch/dump_installer/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/dump_installer_1.07.elf) |
 | **kstuff-lite** | `v1.09` | Lite version of kstuff | `2026-07-04` | [Source](https://github.com/EchoStretch/kstuff-lite/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/kstuff-lite_v1.09.elf) |
