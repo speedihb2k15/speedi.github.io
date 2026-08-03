@@ -1,25 +1,58 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v4.1.8.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.1.8.elf",
+    "filename": "ps5upload_v4.3.2.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v4.3.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.1.8/ps5upload-4.1.8.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v4.3.2/ps5upload-4.3.2.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-07-31",
-    "version": "v4.1.8",
-    "checksum": "b35fcd9c19e56a510fff0d005a2ba22f6b1c827e999964e4480eef6665ad476a"
+    "last_update": "2026-08-02",
+    "version": "v4.3.2",
+    "checksum": "5cc36fbcea9ffd99eabca7d192c2c8f2e471446e029e042d38f9f06722d2b2ac"
   },
   {
     "name": "ps5-payload-manager",
-    "filename": "ps5-payload-manager_v0.5.0.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.5.0.elf",
+    "filename": "ps5-payload-manager_v0.5.1.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.5.1.elf",
     "source": "https://github.com/itsPLK/ps5-payload-manager/releases",
-    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.0/pldmgr_v0.5.0.elf",
+    "source_direct": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.5.1/pldmgr_v0.5.1.elf",
     "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
-    "last_update": "2026-07-21",
-    "version": "v0.5.0",
-    "checksum": "1fe181908027fc625147ac888288ed1bee72a378b4751d36a8a8e0582d306169"
+    "last_update": "2026-08-02",
+    "version": "v0.5.1",
+    "checksum": "05617c69ea145d1c11b8f7a6b7d3bd9e6df3831afd25d71a4ac85d63fb8e28aa"
+  },
+  {
+    "name": "websrv",
+    "filename": "websrv_v0.34.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/websrv_v0.34.elf",
+    "source": "https://github.com/ps5-payload-dev/websrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.34/websrv-ps5.elf",
+    "description": "A simple web server that accepts connections on port 8080",
+    "last_update": "2026-08-02",
+    "version": "v0.34",
+    "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263"
+  },
+  {
+    "name": "ftpsrv",
+    "filename": "ftpsrv_v0.21.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ftpsrv_v0.21.elf",
+    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21/ftpsrv-ps5.elf",
+    "description": "A simple FTP server for jailbroken PS4s and PS5s",
+    "last_update": "2026-08-02",
+    "version": "v0.21",
+    "checksum": "c580f0534ac6349dc5a4a5c656eaced537b4c2b18da51886d943cea6393436c8"
+  },
+  {
+    "name": "klogsrv",
+    "filename": "klogsrv_v0.9.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/klogsrv_v0.9.elf",
+    "source": "https://github.com/ps5-payload-dev/klogsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/klogsrv/releases/download/v0.9/klogsrv-ps5.elf",
+    "description": "A simple socket server that redirects /dev/klog to sockets connected on port 3232",
+    "last_update": "2026-08-02",
+    "version": "v0.9",
+    "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb"
   },
   {
     "name": "dump_installer",
@@ -56,17 +89,6 @@
     "checksum": "a35246fb3bb6042b25653b51cdcbc33254b40339342bf1d2dd0d2eceee2ca526"
   },
   {
-    "name": "websrv",
-    "filename": "websrv_v0.33.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/websrv_v0.33.elf",
-    "source": "https://github.com/ps5-payload-dev/websrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/websrv/releases/download/v0.33/websrv-ps5.elf",
-    "description": "A simple web server that accepts connections on port 8080",
-    "last_update": "2026-06-28",
-    "version": "v0.33",
-    "checksum": "4676a40ac4c7ca1adeb04980efa48dd33a8961446b42e6a12abfcbe96090c8ac"
-  },
-  {
     "name": "pegasus-dl",
     "filename": "pegasus-dl_v1.7.0.elf",
     "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/pegasus-dl_v1.7.0.elf",
@@ -98,28 +120,6 @@
     "last_update": "2026-06-01",
     "version": "v1.2",
     "checksum": "13559b858fc33cc7fa3dc89e10dccf139070d99ee5d378dd75c969293700799e"
-  },
-  {
-    "name": "ftpsrv",
-    "filename": "ftpsrv_v0.20.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ftpsrv_v0.20.elf",
-    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.20/ftpsrv-ps5.elf",
-    "description": "A simple FTP server for jailbroken PS4s and PS5s",
-    "last_update": "2026-05-12",
-    "version": "v0.20",
-    "checksum": "8f305a959fb9d70fd8d52ba88409e0d5a1632e83d4ecdd38646a0a33e54089da"
-  },
-  {
-    "name": "klogsrv",
-    "filename": "klogsrv_v0.8.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/klogsrv_v0.8.elf",
-    "source": "https://github.com/ps5-payload-dev/klogsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/klogsrv/releases/download/v0.8/klogsrv-ps5.elf",
-    "description": "A simple socket server that redirects /dev/klog to sockets connected on port 3232",
-    "last_update": "2026-05-12",
-    "version": "v0.8",
-    "checksum": "f6eb1b415ecf3340b89a56a0cb04ba5c714430085851ada13a98012b63a5a4cf"
   },
   {
     "name": "BackPork",
