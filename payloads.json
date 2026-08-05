@@ -1,14 +1,14 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.0.0.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.0.0.elf",
+    "filename": "ps5upload_v5.1.0.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.1.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.0.0/ps5upload-5.0.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.1.0/ps5upload-5.1.0.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-08-03",
-    "version": "v5.0.0",
-    "checksum": "337f0b8e4da76ae62ba8380bf2565108b82da4e75b9a26e5471ce5800c594f88"
+    "last_update": "2026-08-04",
+    "version": "v5.1.0",
+    "checksum": "840d5223c6e30cf179d364398a0c4d412d5ce6f8d4a3394c9124fe098fee79e4"
   },
   {
     "name": "ps5-payload-manager",
