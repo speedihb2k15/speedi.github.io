@@ -1,14 +1,25 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.2.0.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.2.0.elf",
+    "filename": "ps5upload_v5.2.1.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.2.1.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.2.0/ps5upload-5.2.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.2.1/ps5upload-5.2.1.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-08-10",
-    "version": "v5.2.0",
-    "checksum": "4e8028fe4b317ec163accda8dec649da73f64cdad0503a598db76054e782e971"
+    "last_update": "2026-08-12",
+    "version": "v5.2.1",
+    "checksum": "0c23f88146a314c922953c326bc26d1a8adb871ba3244b76ce4cb6eca43977b3"
+  },
+  {
+    "name": "kstuff-lite",
+    "filename": "kstuff-lite_v1.10.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/kstuff-lite_v1.10.elf",
+    "source": "https://github.com/EchoStretch/kstuff-lite/releases",
+    "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.10/kstuff.elf",
+    "description": "Lite version of kstuff",
+    "last_update": "2026-08-12",
+    "version": "v1.10",
+    "checksum": "b1dfe57f367a35374f605127915eda38c76a6ed5d1c729e427955798bd78c66a"
   },
   {
     "name": "nanoDNS",
@@ -76,17 +87,6 @@
     "last_update": "2026-07-12",
     "version": "1.07",
     "checksum": "9b01c2051795d10a6923a2b4c8137a2895ecdf365e736e42cf6750ac707d6245"
-  },
-  {
-    "name": "kstuff-lite",
-    "filename": "kstuff-lite_v1.09.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/kstuff-lite_v1.09.elf",
-    "source": "https://github.com/EchoStretch/kstuff-lite/releases",
-    "source_direct": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.09/kstuff.elf",
-    "description": "Lite version of kstuff",
-    "last_update": "2026-07-04",
-    "version": "v1.09",
-    "checksum": "ec5212794dc6e44ee8e70fd0549abec6d3dac8c3e03ddbeafd9f869ffe97d4e8"
   },
   {
     "name": "ShadowMountPlus",
