@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v5.2.1` | PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers. | `2026-08-12` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.2.1.elf) |
+| **ps5upload** | `v5.3.3` | PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers. | `2026-08-19` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.3.3.elf) |
 | **kstuff-lite** | `v1.10` | Lite version of kstuff | `2026-08-12` | [Source](https://github.com/EchoStretch/kstuff-lite/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/kstuff-lite_v1.10.elf) |
 | **nanoDNS** | `0.4` | Local DNS proxy server | `2026-08-04` | [Source](https://github.com/drakmor/nanoDNS/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/nanoDNS_0.4.elf) |
 | **ps5-payload-manager** | `v0.5.1` | A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5. | `2026-08-02` | [Source](https://github.com/itsPLK/ps5-payload-manager/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5-payload-manager_v0.5.1.elf) |
