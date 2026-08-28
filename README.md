@@ -7,7 +7,7 @@ This repository contains an automated mirror of useful payloads for the PlayStat
 <!-- PAYLOADS_START -->
 | Payload | Version | Description | Last Updated | Source | Download |
 | --- | --- | --- | --- | --- | --- |
-| **ps5upload** | `v5.10.0` | PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers. | `2026-08-27` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.10.0.elf) |
+| **ps5upload** | `v5.12.1` | PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers. | `2026-08-28` | [Source](https://github.com/phantomptr/ps5upload/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.12.1.elf) |
 | **ftpsrv** | `v0.21.1` | A simple FTP server for jailbroken PS4s and PS5s | `2026-08-20` | [Source](https://github.com/ps5-payload-dev/ftpsrv/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ftpsrv_v0.21.1.elf) |
 | **kstuff-lite** | `v1.10` | Lite version of kstuff | `2026-08-12` | [Source](https://github.com/EchoStretch/kstuff-lite/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/kstuff-lite_v1.10.elf) |
 | **nanoDNS** | `0.4` | Local DNS proxy server | `2026-08-04` | [Source](https://github.com/drakmor/nanoDNS/releases) | [Download](https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/nanoDNS_0.4.elf) |
