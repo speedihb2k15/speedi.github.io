@@ -1,14 +1,14 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.19.0.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.19.0.elf",
+    "filename": "ps5upload_v5.25.0.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.25.0.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.19.0/ps5upload-5.19.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.25.0/ps5upload-5.25.0.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-09-12",
-    "version": "v5.19.0",
-    "checksum": "7d6b80697ccbc57c9b95231f7c80c18c4b1fd99bd51b6e4d3e7153edfc628f7f"
+    "last_update": "2026-09-13",
+    "version": "v5.25.0",
+    "checksum": "b24a0018292651111d7c0be00ab25bb88a9af624078ea5ee4ab1c3ecdcadc65a"
   },
   {
     "name": "pegasus-dl",
