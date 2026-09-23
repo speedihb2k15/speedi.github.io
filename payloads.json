@@ -1,14 +1,14 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.31.4.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.31.4.elf",
+    "filename": "ps5upload_v5.33.1.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.33.1.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.31.4/ps5upload-5.31.4.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.33.1/ps5upload-5.33.1.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-09-21",
-    "version": "v5.31.4",
-    "checksum": "420bdd4d9328ab1068f32ef1a19f96387586ddd2a308744f81957d04d8a41d3b"
+    "last_update": "2026-09-22",
+    "version": "v5.33.1",
+    "checksum": "75b364880bedaaac1499779d5a459008ca838eb13d30252169f9b134dd32ed63"
   },
   {
     "name": "kstuff-lite",
