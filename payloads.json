@@ -1,14 +1,14 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v5.41.0.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v5.41.0.elf",
+    "filename": "ps5upload_v6.1.2.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v6.1.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v5.41.0/ps5upload-5.41.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.1.2/ps5upload-6.1.2.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-10-01",
-    "version": "v5.41.0",
-    "checksum": "90db08434228a08554e06a949f26457fb25c9b607f126fa63616b8d261426dee"
+    "last_update": "2026-10-06",
+    "version": "v6.1.2",
+    "checksum": "1fdf0a79687a4a823dd7c331c267cf492f849bd2bc6666e2db496fc03e544162"
   },
   {
     "name": "ShadowMountPlus",
