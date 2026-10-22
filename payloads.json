@@ -1,14 +1,25 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v7.1.10.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v7.1.10.elf",
+    "filename": "ps5upload_v7.1.11.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v7.1.11.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.11/ps5upload-7.1.11.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-10-20",
-    "version": "v7.1.10",
-    "checksum": "0025ee8d5ac9b660e8bc0ee98e42675ddd69b39c58ce71ff5ac0fb97de1a6040"
+    "last_update": "2026-10-21",
+    "version": "v7.1.11",
+    "checksum": "d82120553ab8826f64e1ce3fa3137a51dc28e8ee99711ebbe783d5b86bf7f814"
+  },
+  {
+    "name": "ShadowMountPlus",
+    "filename": "ShadowMountPlus_1.7beta7.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ShadowMountPlus_1.7beta7.elf",
+    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
+    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta7/shadowmountplus.elf",
+    "description": "Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compressed PFS containers.",
+    "last_update": "2026-10-21",
+    "version": "1.7beta7",
+    "checksum": "a8f9d7f76e8749912508ade0cd5c78076b5bbf1271813c78c80c3d3d9d4777ee"
   },
   {
     "name": "ps5-payload-manager",
@@ -20,17 +31,6 @@
     "last_update": "2026-10-19",
     "version": "v0.6.3",
     "checksum": "2a42054fd9725e1d9595ff4add95abc30e5b49446fcdcb96c06775a376a841c4"
-  },
-  {
-    "name": "ShadowMountPlus",
-    "filename": "ShadowMountPlus_1.7-beta5fix1.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ShadowMountPlus_1.7-beta5fix1.elf",
-    "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-    "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7-beta5fix1/shadowmountplus.elf",
-    "description": "Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compressed PFS containers.",
-    "last_update": "2026-10-10",
-    "version": "1.7-beta5fix1",
-    "checksum": "e85fd63b705498488f39c09c9aea6f9fa22e0df2e932865de49a8cedf25172d5"
   },
   {
     "name": "pegasus-dl",
