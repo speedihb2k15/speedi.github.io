@@ -1,14 +1,25 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v11.6.0.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v11.6.0.elf",
+    "filename": "ps5upload_v12.4.2.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v12.4.2.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.6.0/ps5upload-11.6.0.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.2/ps5upload-12.4.2.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
+    "last_update": "2026-11-09",
+    "version": "v12.4.2",
+    "checksum": "06dbb9022bcb71cb95178c29c9da39ae6e60d17becf9c1ff8938c98bd15fa8ef"
+  },
+  {
+    "name": "ftpsrv",
+    "filename": "ftpsrv_v0.22.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ftpsrv_v0.22.elf",
+    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
+    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.22/ftpsrv-ps5.elf",
+    "description": "A simple FTP server for jailbroken PS4s and PS5s",
     "last_update": "2026-11-08",
-    "version": "v11.6.0",
-    "checksum": "13dca53b2216d920ad94b9564cba68fd085d4ea0f1f0193be5b5299c9872e67e"
+    "version": "v0.22",
+    "checksum": "41148c2c1cad1ea9e7cfde03e389fa918e3338e896d06167346de09adbdc8757"
   },
   {
     "name": "ShadowMountPlus",
@@ -53,17 +64,6 @@
     "last_update": "2026-09-20",
     "version": "v1.11",
     "checksum": "62d9bb6f16531e1c10fd522cb918431eaa3319dcd37405af5cc0b2240d7b2ee5"
-  },
-  {
-    "name": "ftpsrv",
-    "filename": "ftpsrv_v0.21.1.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ftpsrv_v0.21.1.elf",
-    "source": "https://github.com/ps5-payload-dev/ftpsrv/releases",
-    "source_direct": "https://github.com/ps5-payload-dev/ftpsrv/releases/download/v0.21.1/ftpsrv-ps5.elf",
-    "description": "A simple FTP server for jailbroken PS4s and PS5s",
-    "last_update": "2026-08-20",
-    "version": "v0.21.1",
-    "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938"
   },
   {
     "name": "nanoDNS",
