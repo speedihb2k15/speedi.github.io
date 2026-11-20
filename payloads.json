@@ -1,14 +1,14 @@
 [
   {
     "name": "ps5upload",
-    "filename": "ps5upload_v12.6.8.elf",
-    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v12.6.8.elf",
+    "filename": "ps5upload_v12.6.13.elf",
+    "url": "https://github.com/speedihb2k15/speedi.github.io/releases/download/payloads-mirror/ps5upload_v12.6.13.elf",
     "source": "https://github.com/phantomptr/ps5upload/releases",
-    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.8/ps5upload-12.6.8.elf",
+    "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.13/ps5upload-12.6.13.elf",
     "description": "PS5 Upload is a tool designed to get your apps and homebrew onto your console without the headache of slow transfers.",
-    "last_update": "2026-11-18",
-    "version": "v12.6.8",
-    "checksum": "782508beeac6219df8a75517f02aa114dcfb3fab8d2efb28149770aaf9d87435"
+    "last_update": "2026-11-19",
+    "version": "v12.6.13",
+    "checksum": "83b0222253285e3a95db389caaffb3063ea659a3940e7f95c70f5568f887365e"
   },
   {
     "name": "ftpsrv",
